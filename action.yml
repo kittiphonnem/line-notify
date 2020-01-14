@@ -2,7 +2,7 @@ name: 'LINE Notify'
 description: 'LINE Notify for GitHub Actions'
 inputs:
   access_token:
-    description: 'LINE Access Token'
+    description: '7tOn16hy+9ds/lCxMXPM48Q2LHqxmnPXYkIAOkEuI11uzayz3qBG4N0+7z/d5uNh5r3W9mzhItPbpPSdwy78UCOj2DYM60rH91L68+YmwO7vUvIJDLzuM2jP5yzk3JYFFcEo5Ivfs2aBAYu4QL+oswdB04t89/1O/w1cDnyilFU='
     required: true
   message:
     description: 'Message'
